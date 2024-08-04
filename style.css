@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#chart_div {
+  width: 100%;
+  max-width: 900px;
+  height: 500px;
+  margin-top: 20px;
+}
